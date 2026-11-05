@@ -13,7 +13,7 @@ jobs:
 
   synchronize-with-crowdin:
     name: Download translations from Crowdin
-    if: github.repository_owner == 'LawnchairLauncher'
+    if: github.repository_owner == 'Killereq-PL'
     runs-on: ubuntu-latest
     steps:
 
